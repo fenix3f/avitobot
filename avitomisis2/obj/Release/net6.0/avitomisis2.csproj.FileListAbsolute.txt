@@ -1,0 +1,5 @@
+C:\Users\Fenix33F\Desktop\Programming_MISiS\LB_3_dif_1\avitomisis2\avitomisis2\obj\Release\net6.0\avitomisis2.csproj.AssemblyReference.cache
+C:\Users\Fenix33F\Desktop\Programming_MISiS\LB_3_dif_1\avitomisis2\avitomisis2\obj\Release\net6.0\avitomisis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenix33F\Desktop\Programming_MISiS\LB_3_dif_1\avitomisis2\avitomisis2\obj\Release\net6.0\avitomisis2.AssemblyInfoInputs.cache
+C:\Users\Fenix33F\Desktop\Programming_MISiS\LB_3_dif_1\avitomisis2\avitomisis2\obj\Release\net6.0\avitomisis2.AssemblyInfo.cs
+C:\Users\Fenix33F\Desktop\Programming_MISiS\LB_3_dif_1\avitomisis2\avitomisis2\obj\Release\net6.0\avitomisis2.csproj.CoreCompileInputs.cache
